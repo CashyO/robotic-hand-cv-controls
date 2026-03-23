@@ -1,0 +1,33 @@
+# Python virtual environments
+myenv/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build / temp
+dist/
+build/
+*.tmp
+
+# Arduino build artifacts (if generated locally)
+*.elf
+*.hex
+*.bin
